@@ -1,0 +1,10 @@
+pinecone 
+pinecone-text 
+pinecone-notebooks
+langchain
+langchain-community
+langchain-huggingface
+sentence-transformers
+dotenv
+streamlit
+pypdf
